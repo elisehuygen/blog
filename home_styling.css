@@ -1,0 +1,114 @@
+body {
+  font-family: 'Avenir';
+}
+
+header {
+  background-color: #FA8072;
+  height: 300px;
+  font-family: 'Bad Script', cursive;
+}
+main {
+  margin: 20px 0 100px 0;
+}
+
+.post1, .post2, .post3{
+  padding: 10px;
+  margin: 40px 20px 0 20px;
+  border-top: solid 2px #FA8072;
+  border-bottom: solid 2px #FA8072;
+}
+
+.post1 {
+  margin: 50px 20px 0 20px ;
+}
+
+h1 {
+  font-size: 6em;
+  text-align: center;
+  color: white;
+  padding: 50px 0 10px 0;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  font-size: 2em;
+  padding: 10px;
+  font-family: 'avenir';
+}
+
+nav a {
+  color: #FA8072;
+  padding: 50px 100px 100px 5px;
+  font-size: 1.2em;
+  text-decoration: none;
+  font-family: 'Bad Script', cursive;
+
+}
+
+nav {
+  width: auto;
+  text-align: center;
+  margin: 10px 0 0 0 ;
+}
+
+h2 a {
+  color:#FA8072;
+  text-decoration: none;
+}
+h2 {
+  font-size: 2em;
+  color: #FA8072;
+  margin: 0px 00px 0 620px;
+  position: absolute;
+}
+
+ h4 {
+  position: absolute;
+  margin: 40px 0 0 620px;
+}
+
+
+.tekst{
+  margin: -320px 20px 0 620px;
+  position: absolute;
+}
+ .gepost {
+  position:absolute;
+  margin: -40px 20px 0 620px;
+}
+
+.tag {
+  position:absolute;
+  margin: -20px 20px 0 620px;
+}
+
+.lees a {
+  margin:0px 20px 0 620px;
+  color: yellow;
+}
+
+.archieflinks a {
+  margin-left: 5%;
+  margin-right: 50%;
+  text-decoration: none;
+  color: #FA8072;
+}
+.archieflinks {
+  margin: 10px 0 20px 0;
+  font-size: 1.2em;
+}
+
+footer {
+  background-color: #FA8072;
+  color: white;
+  font-size: 1em;
+  padding: 10px 0 10px 20px;
+  font-family: 'Bad Script', cursive;
+  line-height: normal;
+}
+
+p a {
+  text-decoration: none;
+  color: #FA8072;
+}
